@@ -8,8 +8,10 @@ name: CI
       - main
 
 jobs:
+  bash-functions:
+    uses: GrabAByte/github-devops-workflows/.github/workflows/dockerLint.yml@feat/shareVars
   docker-lint:
-    uses: GrabAByte/github-devops-workflows/.github/workflows/dockerLint.yml@main
+    uses: GrabAByte/github-devops-workflows/.github/workflows/dockerLint.yml@feat/shareVars
     with:
       dockerfilePath: 'docker/Dockerfile'
   docker-build:
