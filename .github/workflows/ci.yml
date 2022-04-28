@@ -9,7 +9,7 @@ name: CI
 
 jobs:
   bash-functions:
-    uses: GrabAByte/github-devops-workflows/.github/workflows/dockerLint.yml@feat/shareVars
+    uses: GrabAByte/github-devops-workflows/.github/workflows/bashFunctions.yml@feat/shareVars
   docker-lint:
     uses: GrabAByte/github-devops-workflows/.github/workflows/dockerLint.yml@feat/shareVars
     with:
