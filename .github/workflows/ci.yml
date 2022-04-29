@@ -7,7 +7,7 @@ name: CI
       - main
 
 jobs:
-  write-metadata:
+  gather-metadata:
     uses: GrabAByte/github-devops-workflows/.github/workflows/writeMetadata.yml@main
     with:
       metadataFile: 'metadata.json'
