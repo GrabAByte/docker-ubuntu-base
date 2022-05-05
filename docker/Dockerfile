@@ -23,4 +23,4 @@ RUN \
   rm -rf /var/lib/apt/lists/* && \
   pip3 install --no-cache-dir ansible==5.7.1 && \
   mkdir /etc/ansible && \
-  echo "[local]\nlocalhost ansible_connection=local" > /etc/ansible/hosts
+  printf "[local]\nlocalhost ansible_connection=local" > /etc/ansible/hosts
