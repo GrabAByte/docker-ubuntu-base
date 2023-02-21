@@ -2,7 +2,8 @@ FROM docker.io/ubuntu:23.04
 
 LABEL devops.grababyte.image.authors="GrabAByte"
 
-ARG USER=ubuntu
+ARG USER=ubuntu23
+ENV ID=1001
 
 RUN \
   apt-get update -y && \
@@ -26,10 +27,11 @@ RUN \
     zip=3.0-12build2 && \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/* && \
-  python3 -m ensurepip && \
   pip3 install --no-cache-dir --upgrade \
     pip==23.0.1 \
     setuptools==67.3.3 && \
+  groupadd -g "${ID}" "${USER}" && \
+  useradd -l -m -u "${ID}" -g "${USER}" "${USER}" && \
   echo "${USER} ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
 USER "${USER}"
