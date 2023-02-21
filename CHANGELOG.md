@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.5.1] - (21-02-2023)
+fix: (6ef653a) Add further base packages (#11)
+
 ## [0.5.0] - (21-02-2023)
 feat: (c8d4fd3) Add programming languages into base for package management (#10)
 
