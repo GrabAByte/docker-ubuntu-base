@@ -11,7 +11,9 @@ RUN \
     curl=7.87.0-1ubuntu1 \
     gcc=4:12.2.0-1ubuntu1 \
     git=1:2.38.1-1ubuntu2 \
+    gnupg=2.2.40-1ubuntu2 \
     jq=1.6-2.1ubuntu3 \
+    lsb_release=11.2ubuntu1 \
     nodejs=18.13.0+dfsg1-1ubuntu1 \
     npm=9.2.0~ds1-1 \
     openssh-server=1:9.0p1-1ubuntu8 \
