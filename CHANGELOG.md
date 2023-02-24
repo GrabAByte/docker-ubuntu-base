@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.5.2] - (24-02-2023)
+fix: (246f901) Run pip as non-root user (#13)
+
 ## [0.5.1] - (21-02-2023)
 fix: (6ef653a) Add further base packages (#11)
 
