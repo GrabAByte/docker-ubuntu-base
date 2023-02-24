@@ -9,7 +9,7 @@ RUN \
   apt-get update -y && \
   apt-get install --no-install-recommends -y \
     curl=7.87.0-1ubuntu1 \
-    gcc \
+    gcc=4:12.2.0-3ubuntu1 \
     git=1:2.38.1-1ubuntu2 \
     gnupg=2.2.40-1ubuntu2 \
     jq=1.6-2.1ubuntu3 \
@@ -18,7 +18,7 @@ RUN \
     npm=9.2.0~ds1-1 \
     openssh-server=1:9.0p1-1ubuntu8 \
     python3-dev=3.11.1-3 \
-    python3-setuptools \
+    python3-setuptools=66.1.1-1 \
     python3-pip=22.3.1+dfsg-2 \
     python3-yaml=6.0-3 \
     ruby=1:3.0+3.1ubuntu1 \
