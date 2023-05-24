@@ -17,7 +17,7 @@ RUN \
     nodejs \
     npm \
     openssh-server \
-    python3-dev \
+    python3-full \
     python3-setuptools \
     python3-pip \
     python3-yaml \
