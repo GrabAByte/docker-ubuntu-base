@@ -35,8 +35,3 @@ RUN \
   echo "${USER} ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
 USER "${USER}"
-
-RUN \
-    pipx install \
-      pip==23.1.2 \
-      setuptools==67.8.0
