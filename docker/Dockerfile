@@ -9,7 +9,7 @@ RUN \
   apt-get update -y && \
   apt-get install --no-install-recommends -y \
     curl=7.88.1-9ubuntu1 \
-    gcc=13.1.0-2ubuntu2 \
+    gcc=4:12.2.0-3ubuntu1 \
     git=1:2.39.2-1ubuntu1.1 \
     gnupg=2.2.40-1.1ubuntu1 \
     jq=1.6-2.1ubuntu3 \
@@ -25,7 +25,7 @@ RUN \
     ruby=1:3.1 \
     sshpass=1.09-1 \
     sudo=1.9.13p1-1ubuntu2 \
-    tar=6.1.13+~cs7.0.5-1 \
+    tar=1.34+dfsg-1.2 \
     unzip=6.0-27ubuntu1 \
     zip=3.0-13 && \
   apt-get clean && \
