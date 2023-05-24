@@ -37,5 +37,5 @@ USER "${USER}"
 
 RUN \
     pip3 install --no-cache-dir --upgrade \
-      pip \
-      setuptools
+      pip==23.0.1 \
+      setuptools==67.3.3
