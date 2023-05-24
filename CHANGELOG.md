@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.6.0] - (24-05-2023)
+feat: (4239d60) Bump Ubuntu OS to 23.10 (#15)
+
 ## [0.5.2] - (24-02-2023)
 fix: (246f901) Run pip as non-root user (#13)
 
