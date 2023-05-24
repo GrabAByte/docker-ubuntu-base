@@ -21,6 +21,7 @@ RUN \
     python3-setuptools \
     python3-pip \
     python3-yaml \
+    pipx \
     ruby \
     sshpass \
     sudo \
@@ -36,6 +37,6 @@ RUN \
 USER "${USER}"
 
 RUN \
-    pip3 install --no-cache-dir --upgrade \
+    pipx install --no-cache-dir --upgrade \
       pip==23.1.2 \
       setuptools==67.8.0
