@@ -37,6 +37,6 @@ RUN \
 USER "${USER}"
 
 RUN \
-    pipx install --no-cache-dir --upgrade \
+    pipx install \
       pip==23.1.2 \
       setuptools==67.8.0
