@@ -1,4 +1,4 @@
-FROM docker.io/ubuntu:23.10
+FROM docker.io/ubuntu:24.04
 
 LABEL devops.grababyte.image.authors="GrabAByte"
 
