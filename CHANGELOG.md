@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.7.0] - (23-05-2024)
+feat: (80e1cac) Bump ubuntu base image to 24.04 (noble) and update packages (#17)
+
 ## [0.6.0] - (24-05-2023)
 feat: (4239d60) Bump Ubuntu OS to 23.10 (#15)
 
