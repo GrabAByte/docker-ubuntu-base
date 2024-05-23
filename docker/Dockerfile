@@ -23,6 +23,7 @@ RUN \
     python3-yaml=6.0.1-2build2 \
     pipx=1.4.3-1 \
     ruby=1:3.2~ubuntu1 \
+    software-properties-common=0.99.48 \
     sshpass=1.09-1 \
     sudo=1.9.15p5-3ubuntu5 \
     tar=1.35+dfsg-3build1 \
