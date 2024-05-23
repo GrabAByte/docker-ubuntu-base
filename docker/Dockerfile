@@ -1,33 +1,33 @@
-FROM docker.io/ubuntu:23.10
+FROM docker.io/ubuntu:24.04
 
 LABEL devops.grababyte.image.authors="GrabAByte"
 
-ARG USER=ubuntu23
+ARG USER=ubuntu24
 ENV ID=1001
 
 RUN \
   apt-get update -y && \
   apt-get install --no-install-recommends -y \
-    curl=7.88.1-9ubuntu1 \
-    gcc=4:12.2.0-3ubuntu1 \
-    git=1:2.39.2-1ubuntu1.1 \
-    gnupg=2.2.40-1.1ubuntu1 \
-    jq=1.6-2.1ubuntu3 \
-    lsb-release=12.0-1ubuntu1 \
-    nodejs=18.13.0+dfsg1-1ubuntu2 \
-    npm=9.2.0~ds1-1 \
-    openssh-server=1:9.0p1-1ubuntu8.1 \
-    python3-full=3.11.2-1 \
-    python3-setuptools=66.1.1-1 \
-    python3-pip=23.1.2+dfsg-1 \
-    python3-yaml=6.0-3build1 \
-    pipx=1.2.0-1 \
-    ruby=1:3.1 \
+    curl=8.5.0-2ubuntu10.1 \
+    gcc=4:13.2.0-7ubuntu1 \
+    git=1:2.43.0-1ubuntu7 \
+    gnupg=2.4.4-2ubuntu17 \
+    jq=1.7.1-3build1 \
+    lsb-release=12.0-2 \
+    nodejs=18.19.1+dfsg-6ubuntu5 \
+    npm=9.2.0~ds1-2 \
+    openssh-server=1:9.6p1-3ubuntu13 \
+    python3-full=3.12.3-0ubuntu1 \
+    python3-setuptools=68.1.2-2ubuntu1 \
+    python3-pip=24.0+dfsg-1ubuntu1 \
+    python3-yaml=6.0.1-2build2 \
+    pipx=1.4.3-1 \
+    ruby=1:3.2~ubuntu1 \
     sshpass=1.09-1 \
-    sudo=1.9.13p1-1ubuntu2 \
-    tar=1.34+dfsg-1.2 \
-    unzip=6.0-27ubuntu1 \
-    zip=3.0-13 && \
+    sudo=1.9.15p5-3ubuntu5 \
+    tar=1.35+dfsg-3build1 \
+    unzip=6.0-28ubuntu4 \
+    zip=3.0-13build1 && \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/* && \
   groupadd -g "${ID}" "${USER}" && \
