@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.7.1] - (23-05-2024)
+fix: (c2385f1) Add apt dependency software (#18)
+
 ## [0.7.0] - (23-05-2024)
 feat: (80e1cac) Bump ubuntu base image to 24.04 (noble) and update packages (#17)
 
