@@ -16,7 +16,7 @@ jobs:
     uses: GrabAByte/github-devops-workflows/.github/workflows/dockerLint.yml@0.9.3
     with:
       dockerfilePath: 'docker/Dockerfile'
-      needs: get-version
+    needs: get-version
   sonar-scan:
     uses: GrabAByte/github-devops-workflows/.github/workflows/sonarScan.yml@0.9.3
     secrets:
