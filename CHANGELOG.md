@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.7.2] - (13-09-2024)
+fix: (34ad9dc) Add MIT License
+
 ## [0.7.1] - (23-05-2024)
 fix: (c2385f1) Add apt dependency software (#18)
 
