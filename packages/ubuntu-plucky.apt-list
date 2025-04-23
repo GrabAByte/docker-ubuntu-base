@@ -1,0 +1,120 @@
+Listing... 0%Listing... 0%Listing... 18%               [32madduser[0m/now 3.137ubuntu2 all [installed,local]
+[32mapt[0m/now 3.0.0 amd64 [installed,local]
+[32mbase-files[0m/now 13.6ubuntu2 amd64 [installed,local]
+[32mbase-passwd[0m/now 3.6.6 amd64 [installed,local]
+[32mbash[0m/now 5.2.37-1.1ubuntu1 amd64 [installed,local]
+[32mbinutils-common[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[32mbinutils-x86-64-linux-gnu[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[32mbinutils[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[32mblt[0m/now 2.5.3+dfsg-8 amd64 [installed,local]
+[32mbsdutils[0m/now 1:2.40.2-14ubuntu1 amd64 [installed,local]
+[32mca-certificates[0m/now 20241223 all [installed,local]
+[32mcoreutils[0m/now 9.5-1ubuntu1 amd64 [installed,local]
+[32mcpp-14-x86-64-linux-gnu[0m/now 14.2.0-19ubuntu2 amd64 [installed,local]
+[32mcpp-14[0m/now 14.2.0-19ubuntu2 amd64 [installed,local]
+[32mcpp-x86-64-linux-gnu[0m/now 4:14.2.0-1ubuntu1 amd64 [installed,local]
+[32mcpp[0m/now 4:14.2.0-1ubuntu1 amd64 [installed,local]
+[32mcurl[0m/now 8.12.1-3ubuntu1 amd64 [installed,local]
+[32mdash[0m/now 0.5.12-12ubuntu1 amd64 [installed,local]
+[32mdbus-bin[0m/now 1.16.2-2ubuntu1 amd64 [installed,local]
+[32mdbus-daemon[0m/now 1.16.2-2ubuntu1 amd64 [installed,local]
+[32mdbus-session-bus-common[0m/now 1.16.2-2ubuntu1 all [installed,local]
+[32mdbus-system-bus-common[0m/now 1.16.2-2ubuntu1 all [installed,local]
+[32mdbus[0m/now 1.16.2-2ubuntu1 amd64 [installed,local]
+[7m--More--[27m[KListing... 0%Listing... 0%Listing... 18%               [32madduser[0m/now 3.137ubuntu2 all [installed,local]
+[32mapt[0m/now 3.0.0 amd64 [installed,local]
+[32mbase-files[0m/now 13.6ubuntu2 amd64 [installed,local]
+[32mbase-passwd[0m/now 3.6.6 amd64 [installed,local]
+[32mbash[0m/now 5.2.37-1.1ubuntu1 amd64 [installed,local]
+[32mbinutils-common[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[32mbinutils-x86-64-linux-gnu[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[32mbinutils[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[32mblt[0m/now 2.5.3+dfsg-8 amd64 [installed,local]
+[32mbsdutils[0m/now 1:2.40.2-14ubuntu1 amd64 [installed,local]
+[32mca-certificates[0m/now 20241223 all [installed,local]
+[32mcoreutils[0m/now 9.5-1ubuntu1 amd64 [installed,local]
+[32mcpp-14-x86-64-linux-gnu[0m/now 14.2.0-19ubuntu2 amd64 [installed,local]
+[32mcpp-14[0m/now 14.2.0-19ubuntu2 amd64 [installed,local]
+[32mcpp-x86-64-linux-gnu[0m/now 4:14.2.0-1ubuntu1 amd64 [installed,local]
+[32mcpp[0m/now 4:14.2.0-1ubuntu1 amd64 [installed,local]
+[32mcurl[0m/now 8.12.1-3ubuntu1 amd64 [installed,local]
+[32mdash[0m/now 0.5.12-12ubuntu1 amd64 [installed,local]
+[32mdbus-bin[0m/now 1.16.2-2ubuntu1 amd64 [installed,local]
+[32mdbus-daemon[0m/now 1.16.2-2ubuntu1 amd64 [installed,local]
+[32mdbus-session-bus-common[0m/now 1.16.2-2ubuntu1 all [installed,local]
+[32mdbus-system-bus-common[0m/now 1.16.2-2ubuntu1 all [installed,local]
+[32mdbus[0m/now 1.16.2-2ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mdebconf[0m/now 1.5.87ubuntu1 all [installed,local]
+[7m--More--[27m[32mdebianutils[0m/now 5.21 amd64 [installed,local]
+[7m--More--[27m[32mdiffutils[0m/now 1:3.10-3 amd64 [installed,local]
+[7m--More--[27m[32mdirmngr[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mdistro-info-data[0m/now 0.63 all [installed,local]
+[7m--More--[27m[32mdpkg[0m/now 1.22.18ubuntu2 amd64 [installed,local]
+[7m--More--[27m[32me2fsprogs[0m/now 1.47.2-1ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32meslint[0m/now 6.4.0~dfsg+~6.1.9-12 all [installed,local]
+[7m--More--[27m[32mfindutils[0m/now 4.10.0-3 amd64 [installed,local]
+[7m--More--[27m[32mfontconfig-config[0m/now 2.15.0-2.2ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mfonts-dejavu-core[0m/now 2.37-8 all [installed,local]
+[7m--More--[27m[32mfonts-dejavu-mono[0m/now 2.37-8 all [installed,local]
+[7m--More--[27m[32mfonts-mathjax[0m/now 2.7.9+dfsg-1 all [installed,local]
+[7m--More--[27m[32mgcc-14-base[0m/now 14.2.0-19ubuntu2 amd64 [installed,local]
+[7m--More--[27m[32mgcc-14-x86-64-linux-gnu[0m/now 14.2.0-19ubuntu2 amd64 [installed,local]
+[7m--More--[27m[32mgcc-14[0m/now 14.2.0-19ubuntu2 amd64 [installed,local]
+[7m--More--[27m[32mgcc-15-base[0m/now 15-20250404-0ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mgcc-x86-64-linux-gnu[0m/now 4:14.2.0-1ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mgcc[0m/now 4:14.2.0-1ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mgir1.2-girepository-2.0[0m/now 1.84.0-1 amd64 [installed,local]
+[7m--More--[27m[32mgir1.2-glib-2.0[0m/now 2.84.1-1 amd64 [installed,local]
+[7m--More--[27m[32mgir1.2-packagekitglib-1.0[0m/now 1.3.0-3build1 amd64 [installed,local]
+[7m--More--[27m[32mgit-man[0m/now 1:2.48.1-0ubuntu1 all [installed,local]
+[7m--More--[27m[32mgit[0m/now 1:2.48.1-0ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mgnupg-utils[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mgnupg[0m/now 2.4.4-2ubuntu23 all [installed,local]
+[7m--More--[27m[32mgpg-agent[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mgpg[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mgpgconf[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mgpgsm[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mgpgv[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mgrep[0m/now 3.11-4build1 amd64 [installed,local]
+[7m--More--[27m[32mgyp[0m/now 0.16.2-2 all [installed,local]
+[7m--More--[27m[32mgzip[0m/now 1.13-1ubuntu3 amd64 [installed,local]
+[7m--More--[27m[32mhandlebars[0m/now 3:4.7.7+~4.1.0-1 all [installed,local]
+[7m--More--[27m[32mhostname[0m/now 3.25 amd64 [installed,local]
+[7m--More--[27m[32midle-python3.13[0m/now 3.13.3-1 all [installed,local]
+[7m--More--[27m[32midle[0m/now 3.13.3-1 all [installed,local]
+[7m--More--[27m[32minit-system-helpers[0m/now 1.68 all [installed,local]
+[7m--More--[27m[32miso-codes[0m/now 4.17.0-1 all [installed,local]
+[7m--More--[27m[32mjq[0m/now 1.7.1-3ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mkeyboxd[0m/now 2.4.4-2ubuntu23 amd64 [installed,local]
+[7m--More--[27m[32mlibacl1[0m/now 2.3.2-2 amd64 [installed,local]
+[7m--More--[27m[32mlibapparmor1[0m/now 4.1.0~beta5-0ubuntu14 amd64 [installed,local]
+[7m--More--[27m[32mlibappstream5[0m/now 1.0.4-1 amd64 [installed,local]
+[7m--More--[27m[32mlibapt-pkg7.0[0m/now 3.0.0 amd64 [installed,local]
+[7m--More--[27m[32mlibasan8[0m/now 15-20250404-0ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibassuan9[0m/now 3.0.2-2 amd64 [installed,local]
+[7m--More--[27m[32mlibatomic1[0m/now 15-20250404-0ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibattr1[0m/now 1:2.5.2-3 amd64 [installed,local]
+[7m--More--[27m[32mlibaudit-common[0m/now 1:4.0.2-2ubuntu2 all [installed,local]
+[7m--More--[27m[32mlibaudit1[0m/now 1:4.0.2-2ubuntu2 amd64 [installed,local]
+[7m--More--[27m[32mlibbinutils[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibblkid1[0m/now 2.40.2-14ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibbrotli1[0m/now 1.1.0-2build4 amd64 [installed,local]
+[7m--More--[27m[32mlibbsd0[0m/now 0.12.2-2 amd64 [installed,local]
+[7m--More--[27m[32mlibbz2-1.0[0m/now 1.0.8-6 amd64 [installed,local]
+[7m--More--[27m[32mlibc-bin[0m/now 2.41-6ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibc6[0m/now 2.41-6ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcap-ng0[0m/now 0.8.5-4build1 amd64 [installed,local]
+[7m--More--[27m[32mlibcap2-bin[0m/now 1:2.73-4ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcap2[0m/now 1:2.73-4ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcares2[0m/now 1.34.4-2.1 amd64 [installed,local]
+[7m--More--[27m[32mlibcbor0.10[0m/now 0.10.2-2ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcc1-0[0m/now 15-20250404-0ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcom-err2[0m/now 1.47.2-1ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcrypt1[0m/now 1:4.4.38-1 amd64 [installed,local]
+[7m--More--[27m[32mlibctf-nobfd0[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibctf0[0m/now 2.44-3ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcurl3t64-gnutls[0m/now 8.12.1-3ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibcurl4t64[0m/now 8.12.1-3ubuntu1 amd64 [installed,local]
+[7m--More--[27m[32mlibdb5.3t64[0m/now 5.3.28+dfsg2-9 amd64 [installed,local]
+[7m--More--[27m[32mlibdbus-1-3[0m/now 1.16.2-2ubuntu1 amd64 [installed,local]
+[7m--More--[27m[K
