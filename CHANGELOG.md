@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.8.0] - (23-04-2025)
+feat: (ffa7f9b)  bump ubuntu version. to plucky (#20)
+
 ## [0.7.2] - (13-09-2024)
 fix: (34ad9dc) Add MIT License
 
